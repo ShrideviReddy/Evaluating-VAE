@@ -9,7 +9,7 @@ I have implemented first part with the latent dimension equal to 200. In the nex
 
 ## Dataset:
 
-CelebA
+* CelebA
 
 ## Variational autoencoder Introduction:
 
