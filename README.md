@@ -30,6 +30,6 @@ Following diagram shows flow of Variational Autoenocder:
 ![VAE-2](https://github.com/ShrideviReddy/VAE-Performance/blob/master/results/VAE-50%20epochs.PNG)
 
 ## Reference:
-*https://www.jeremyjordan.me/variational-autoencoders/
-*https://towardsdatascience.com/generating-new-faces-with-variational-autoencoders-d13cfcb5f0a8
+* https://www.jeremyjordan.me/variational-autoencoders/
+* https://towardsdatascience.com/generating-new-faces-with-variational-autoencoders-d13cfcb5f0a8
 
