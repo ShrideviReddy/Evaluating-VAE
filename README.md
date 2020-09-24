@@ -23,11 +23,12 @@ Following diagram shows flow of Variational Autoenocder:
 
 ## Results:
 
-### For latent dimension (i.e. Z) = 200 and epochs = 25
+### Latent Dimension (Z) = 200
+* Epochs = 25
 
 ![VAE-1](https://github.com/ShrideviReddy/VAE-Performance/blob/master/results/VAE-25%20epochs.PNG)
 
-### For latent dimension = 200 and epochs = 50
+* Epochs = 50
 
 ![VAE-2](https://github.com/ShrideviReddy/VAE-Performance/blob/master/results/VAE-50%20epochs.PNG)
 
