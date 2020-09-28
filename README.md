@@ -1,4 +1,4 @@
-# Variational Autoencoder Performance Analysis ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+# Variational Autoencoder Performance evaluation ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
