@@ -17,7 +17,7 @@ A variational autoencoder (VAE) provides a probabilistic manner for describing a
 Thus, rather than building an encoder which outputs a single value to describe each latent state attribute, we'll formulate our encoder to
 describe a probability distribution for each latent attribute.
 
-Following diagram shows flow of Variational Autoenocder:
+Following diagram shows simple flow of Autoenocder and its same for variational autoencoder with few changes:
 
 ![VAE Flow Diagram](https://github.com/ShrideviReddy/VAE-Performance/blob/master/results/VAE-logo.PNG)
 
