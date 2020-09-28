@@ -19,7 +19,7 @@ describe a probability distribution for each latent attribute.
 
 Following diagram shows flow of Variational Autoenocder:
 
-![VAE Flow Diagram](https://github.com/ShrideviReddy/VAE-Performance/blob/master/results/VAE-model.PNG)
+![VAE Flow Diagram](https://github.com/ShrideviReddy/VAE-Performance/blob/master/results/VAE-logo.PNG)
 
 ## Results:
 
